@@ -1,0 +1,8 @@
+# .gitignore
+# Ignore build artifacts
+/basics/build/
+# Ignore editor/IDE files
+.clangd
+.vscode/
+# Ignore binary objects
+*.o
